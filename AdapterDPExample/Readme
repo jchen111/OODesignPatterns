@@ -1,0 +1,3 @@
+Under the concept of Adapter Design pattern, provide an adapter class and implements the interface to meet the clients needs.
+Here we adapte the default volts which is 120 volts to 3 volts and 12 volts, we also compare the two different approaches 
+to achieve this purpose, which is inheritance and composition.
